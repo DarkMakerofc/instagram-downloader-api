@@ -8,11 +8,11 @@
 ## install
 
 ```bash
- npm install @mrnima/instagram-downloader-api
+ npm install @mrnima/instagram-downloader
 ```
 or
 ```bash
- yarn add @mrnima/instagram-downloader-api
+ yarn add @mrnima/instagram-downloader
 ```
 
 
@@ -20,7 +20,7 @@ or
 ## Require
 
 ```javascript
-const { instagramDownload } = require("@mrnima/instagram-downloader-api");
+const { instagramDownload } = require("@mrnima/instagram-downloader");
 ```
 
 ## Example 
